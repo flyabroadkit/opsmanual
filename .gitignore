@@ -1,0 +1,21 @@
+# OS-specific
+.DS_Store
+
+# Bundler/Rubygems
+.bundle
+pkg/*
+tags
+Gemfile.lock
+test/tmp/
+
+# Documentation
+_site/*
+.yardoc/
+doc/
+
+# Rubinius
+*.rbc
+
+# IDE junk
+.idea/*
+*.iml
